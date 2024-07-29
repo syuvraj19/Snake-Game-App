@@ -88,6 +88,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 ## 🔗 Links
 
 - **Project Repository:** https://github.com/syuvraj19/Snake-Game-App
-- **Live Demo:**
+- **Live Demo:** https://snakegameappjs.netlify.app/
   
 Enjoy playing Snake! 🚀
