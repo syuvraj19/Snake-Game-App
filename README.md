@@ -87,7 +87,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 ## 🔗 Links
 
-- **Project Repository:** 
+- **Project Repository:** https://github.com/syuvraj19/Snake-Game-App
 - **Live Demo:**
   
 Enjoy playing Snake! 🚀
