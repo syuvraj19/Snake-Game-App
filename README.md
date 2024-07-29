@@ -1,6 +1,6 @@
-# 🐍 Snake Game App
+# 🐍 Snake Game
 
-Welcome to the **Snake Game** project! This classic game lets you control a snake to collect food, growing in length with each piece of food eaten. Try to achieve the highest score without colliding with the walls or yourself!
+Welcome to the **Snake Game** project! This classic game lets you control a snake to collect food, growing in length with each piece of food eaten. Try to achieve the highest score without colliding with the walls or yourself! The game features a visually appealing snake with gradients and rounded corners, providing an engaging gameplay experience.
 
 ## ✨ Features
 
@@ -9,20 +9,12 @@ Welcome to the **Snake Game** project! This classic game lets you control a snak
 - **Collision Detection:** Game resets if the snake collides with the walls or itself.
 - **Score Tracking:** Keep track of your score as you play.
 - **Responsive Design:** Works on various screen sizes, ensuring a consistent experience.
+- **Visually Appealing Snake:** Segments with gradient colours and rounded corners.
 
 ## 🎨 Screenshots
 
 ### Game Board
-![Game Board](screenshots/game_board.png)
 
-### Game Over
-![Game Over](screenshots/game_over.png)
-
-## 🚀 Demo
-
-Check out a live demo of the game in action!
-
-![Demo GIF](screenshots/demo.gif)
 
 ## 🛠️ Technologies Used
 
@@ -61,14 +53,22 @@ To run this project locally, follow these steps:
    - Guide the snake to the food to grow in length and increase your score.
 
 4. **Avoid Collisions:**
-   - Avoid hitting the walls or the snake's own body to keep playing.
+   - Avoid hitting the walls or the snake's body to keep playing.
 
 5. **Track Your Score:**
    - The score will be displayed at the bottom of the game board.
 
+## 📋 Instructions
+
+### How to Play:
+- **Use the arrow keys to move the snake.**
+- **Eat the red food to grow and earn points.**
+- **Avoid running into the walls or the snake's own body.**
+- **The game ends if you collide with yourself or the walls.**
+
 ## 🤝 Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
 
 1. **Fork the repository.**
 2. **Create a new branch:**
@@ -85,18 +85,9 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
     ```
 5. **Open a pull request.**
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🙌 Acknowledgements
-
-- Thanks to all contributors who have helped in making this project better.
-- Inspired by various online Snake game implementations and tutorials.
-
 ## 🔗 Links
 
-- **Project Repository:** [GitHub](https://github.com/your-username/snake-game)
-- **Live Demo:** [Demo Link](https://your-username.github.io/snake-game)
-
+- **Project Repository:** 
+- **Live Demo:**
+  
 Enjoy playing Snake! 🚀
