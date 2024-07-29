@@ -1,0 +1,69 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #61dafb;
+}
+
+.game-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 420px; /* slightly larger than the canvas */
+    height: 420px; /* slightly larger than the canvas */
+    border: 2px solid #61dafb; /* Border for the play area */
+    background-color: #000;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px #61dafb;
+}
+
+canvas {
+    background-color: #222;
+    border: 2px solid #61dafb; /* Border around the canvas */
+}
+
+#score {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #61dafb;
+}
+
+.instructions {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.instructions h2 {
+    color: #61dafb;
+    font-size: 1.5em;
+}
+
+.instructions ul {
+    list-style: none;
+    padding: 0;
+}
+
+.instructions li {
+    background-color: #333;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    color: #61dafb;
+}
